@@ -9,6 +9,3 @@ Kidnappings have been reported in your neighborhood. You've heard whispers of ch
   - The kidnapper: Quiet breathing
   - The rats: Scurrying
   - Running to another room: Paranoia
- 
-## Build Directions
-
